@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\bin\Debug\BTWindowsForm.exe.config
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\bin\Debug\BTWindowsForm.exe
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\bin\Debug\BTWindowsForm.pdb
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\Bai1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.frmBai1.resources
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.frmBai2.resources
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.frmBai3.resources
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.frmChinh.resources
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\Bai1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.exe
+C:\Users\Admin\Desktop\2115242_HuynhMaiAiNgoc_Lab01\BTWindowsForm\BTWindowsForm\obj\Debug\BTWindowsForm.pdb
